@@ -39,20 +39,21 @@ a:hover {
 }
 
 #banner{
-	background-image:url("https://unsplash.it/1300/600");
+	background-image:url("https://static1.squarespace.com/static/55c8073fe4b02a74ffe18e48/t/565670aae4b04fc07e0706b4/1448505514976/Above+the+Heavens.jpg?format=original");
 	background-size:cover;
 	margin-bottom:10px;
 	padding:50px;
+	border:none;
 }
 
 #banner p{
-	color: rgb(0,0,0);
+	color: rgb(250,250,250);
 	font-size:25px;
-	opacity:0.5;
+	opacity:0.8;
 
 }
 
-#banner a{
+#banner a, h1{
 color: white;
 }
 
