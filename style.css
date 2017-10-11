@@ -72,7 +72,7 @@ border-radius:0px;
 }
 
 #footer a{
-color:pink;
+color:rgb(91,192,222);
 font-size:25px;
 text-align:center;
 
@@ -93,5 +93,5 @@ margin-bottom:0px;
 }
 
 #footer a:hover {
-  color:red;
+  color:blue;
 }
